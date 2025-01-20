@@ -33,8 +33,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**  
    Open your terminal and run:
-   cd hotel
-   npm start
+  , cd hotel
+   ,npm start
 
    ```bash
    git clone https://github.com/Nhluvuko04/hotel-website.git
